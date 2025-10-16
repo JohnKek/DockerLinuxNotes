@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "6b22ed64bde1dd44",
+    "type": "split",
+    "children": [
+      {
+        "id": "056a1de516172453",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64e951bce5c1f515",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Управление пользователями.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Управление пользователями"
+            }
+          },
+          {
+            "id": "20dd95f30d3d22d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Пайп (Дополнить).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Пайп (Дополнить)"
+            }
+          },
+          {
+            "id": "99358eaed09c251e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "grep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "grep"
+            }
+          },
+          {
+            "id": "c997e7393ab8937b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Управление пользователями.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Управление пользователями"
+            }
+          },
+          {
+            "id": "ebf838e6ac751ca5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Проверка текущих прав доступа.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Проверка текущих прав доступа"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1c769931f1a6141",
+    "type": "split",
+    "children": [
+      {
+        "id": "2745c6a5befb726e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5c3e0947b0489bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a343d115d4ab5b25",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "10866fb181af0206",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ee4570a559a10249",
+    "type": "split",
+    "children": [
+      {
+        "id": "1beba9a7672682bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc8e2bde2276cae8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Проверка текущих прав доступа.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Проверка текущих прав доступа"
+            }
+          },
+          {
+            "id": "658a0699ec35fafa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Проверка текущих прав доступа.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Проверка текущих прав доступа"
+            }
+          },
+          {
+            "id": "25b23ec89af2adb4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0d408068ab4c9b5a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Проверка текущих прав доступа.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Проверка текущих прав доступа"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ebf838e6ac751ca5",
+  "lastOpenFiles": [
+    "Управление пользователями.md",
+    "Проверка текущих прав доступа.md",
+    "Управление группами.md",
+    "Доступ.md",
+    "grep.md",
+    "Пайп (Дополнить).md",
+    "Welcome.md",
+    "create a link.md",
+    "Pasted image 20251016033427.png"
+  ]
+}
