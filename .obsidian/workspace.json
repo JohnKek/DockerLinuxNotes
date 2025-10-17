@@ -69,6 +69,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Управление пользователями.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Управление пользователями"
+            }
+          },
+          {
+            "id": "4a2486b91ad712df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Проверка текущих прав доступа.md",
                 "mode": "source",
                 "source": false
@@ -76,9 +90,121 @@
               "icon": "lucide-file",
               "title": "Проверка текущих прав доступа"
             }
+          },
+          {
+            "id": "4c79e197babef603",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Управление системными процессами.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Управление системными процессами"
+            }
+          },
+          {
+            "id": "18432a6b8c1c51d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Завершение процессов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Завершение процессов"
+            }
+          },
+          {
+            "id": "d458196795364abc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Основы управления сервисами.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Основы управления сервисами"
+            }
+          },
+          {
+            "id": "d4fd26dc07b3abcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Логирование и просмотр системных журналов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Логирование и просмотр системных журналов"
+            }
+          },
+          {
+            "id": "64ba396da193c0ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "СЕТЬ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "СЕТЬ"
+            }
+          },
+          {
+            "id": "766f9b73b666c7dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Основы работы с сетью- команды ping, ip addr, ifconfig.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Основы работы с сетью- команды ping, ip addr, ifconfig"
+            }
+          },
+          {
+            "id": "7a18b1864f931227",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "СЕТЬ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "СЕТЬ"
+            }
+          },
+          {
+            "id": "4488bf9ee5862026",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Настройка маршрутов - команды `ip route`, `netstat`, `ss`.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Настройка маршрутов - команды `ip route`, `netstat`, `ss`"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -151,7 +277,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Проверка текущих прав доступа.md",
+                "file": "Настройка маршрутов - команды `ip route`, `netstat`, `ss`.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +287,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Проверка текущих прав доступа"
+              "title": "Backlinks for Настройка маршрутов - команды `ip route`, `netstat`, `ss`"
             }
           },
           {
@@ -170,12 +296,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Проверка текущих прав доступа.md",
+                "file": "Настройка маршрутов - команды `ip route`, `netstat`, `ss`.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Проверка текущих прав доступа"
+              "title": "Outgoing links from Настройка маршрутов - команды `ip route`, `netstat`, `ss`"
             }
           },
           {
@@ -199,13 +325,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Проверка текущих прав доступа.md",
+                "file": "Настройка маршрутов - команды `ip route`, `netstat`, `ss`.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Проверка текущих прав доступа"
+              "title": "Outline of Настройка маршрутов - команды `ip route`, `netstat`, `ss`"
             }
           }
         ]
@@ -226,11 +352,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "ebf838e6ac751ca5",
+  "active": "4488bf9ee5862026",
   "lastOpenFiles": [
-    "Управление пользователями.md",
-    "Проверка текущих прав доступа.md",
+    "СЕТЬ.md",
     "Управление группами.md",
+    "Настройка маршрутов - команды `ip route`, `netstat`, `ss`.md",
+    "Основы работы с сетью- команды ping, ip addr, ifconfig.md",
+    "Логирование и просмотр системных журналов.md",
+    "Основы управления сервисами.md",
+    "Завершение процессов.md",
+    "Управление системными процессами.md",
+    "Проверка текущих прав доступа.md",
+    "Untitled.md",
+    "Управление пользователями.md",
     "Доступ.md",
     "grep.md",
     "Пайп (Дополнить).md",
